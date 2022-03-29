@@ -1,0 +1,9 @@
+.center-main{
+    margin-left: 30%;
+}
+.center-main-div{
+    display: flex;
+    justify-content: center;
+    width: 30rem;
+background-image: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg');
+}
